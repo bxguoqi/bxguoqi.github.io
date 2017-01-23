@@ -26,4 +26,11 @@ guoqi 的 Blog 就这么开通了。
 一晃3个月都过去了，IntelliJ都把bug修复了，我才开始写博客，哈哈，有点晚。
 
 ## 回忆
-“每天变得更强一点”
+```java
+public TenYears{
+    public static void main(){
+        //System.out.println("每天变得更胖一点");
+        System.out.println("每天变得更强一点");
+    }
+}
+```
